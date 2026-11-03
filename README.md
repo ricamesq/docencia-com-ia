@@ -13,7 +13,7 @@ Skills, agentes e modelos para professores usarem o Claude Code (ou o Codex) no 
 
 Com o Claude Code aberto na pasta de docência, cole:
 
-    Instale as skills e os agentes do repositório github.com/ricamesq/docencia-com-ia no meu Claude Code e copie o modelos/CLAUDE.md para esta pasta.
+    Instale as skills e os agentes do repositório github.com/ricamesq/docencia-com-ia no meu Claude Code e copie o modelos/CLAUDE.md para esta pasta. Antes, mostre o que vai copiar e para onde, e espere o meu OK.
 
 No Codex, peça o mesmo e troque CLAUDE.md por AGENTS.md.
 
@@ -53,4 +53,4 @@ Nano Banana Pro (imagem) e Veo (vídeo) estão no aplicativo Gemini com plano pa
 
 ## Cuidado
 
-Nada de dado de paciente nem dado que identifique aluno em pedido ou arquivo: o que a IA lê vai para o modelo.
+Nada de dado de paciente nem dado pessoal de colega, professor ou outra pessoa nem dado que identifique aluno em pedido ou arquivo: o que a IA lê vai para o modelo.

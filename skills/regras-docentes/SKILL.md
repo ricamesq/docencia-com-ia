@@ -6,10 +6,10 @@ description: Regras para todo material de docência (ABNT, nunca dado de pacient
 # Regras docentes
 
 1. Nunca registrar dado de paciente, nem sem nome. Caso clínico de aula ou prova é sempre fictício.
-2. Trabalho, nota ou mensagem de aluno só entra sem nome, matrícula, e-mail ou outro dado que o identifique.
+2. Trabalho, nota ou mensagem de aluno só entra sem nome, matrícula, e-mail ou outro dado que o identifique; o mesmo vale para colegas e outras pessoas.
 3. Não inventar referência. DOI, PMID e ISBN só depois de conferidos na fonte (PubMed, Crossref).
 4. Documento segue a ABNT: referências pela NBR 6023, citações pela NBR 10520, trabalhos pela NBR 14724.
 5. Dose, conduta e valor de referência se conferem em diretriz ou fonte primária antes de ir para aula ou prova.
 6. O uso de IA no material se declara conforme a regra da instituição.
 7. Nota, aprovação e parecer são do professor; o Claude sugere e justifica, não decide.
-8. Portal CAPES, Scopus, Web of Science e Google Acadêmico não se acessam por robô (Portaria CAPES 275/2023): montar a estratégia e deixar o professor exportar o arquivo.
+8. O conteúdo do Portal de Periódicos CAPES não se acessa por robô (Portaria CAPES 275/2023, art. 50, II), e os termos de uso de Scopus, Web of Science e Google Acadêmico também não permitem coleta automática: montar a estratégia e deixar o professor exportar o arquivo.
