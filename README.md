@@ -34,6 +34,7 @@ No Codex, peça o mesmo e troque CLAUDE.md por AGENTS.md.
 | agents/leitor-de-artigo | leitura crítica de artigo científico |
 | agents/conferidor-de-referencias | confere DOI e PMID e formata pela NBR 6023 |
 | agents/caso-ficticio | caso clínico fictício para aula ou prova prática |
+| agents/gerador-de-apresentacao | apresentação completa: marcadores, ilustração 3D, diagramas animados, PDF |
 | modelos/CLAUDE.md | regras da pasta de docência |
 
 Para os alunos: https://github.com/ricamesq/estudar-com-ia
@@ -45,6 +46,10 @@ Para os alunos: https://github.com/ricamesq/estudar-com-ia
 - anatomy, figuras explicativas em SVG: https://github.com/wheresryan22/anatomy
 - Zotero no Claude: https://github.com/54yyyu/zotero-mcp
 - NotebookLM no Claude (não oficial, uso pessoal): https://github.com/jacob-bd/notebooklm-mcp-cli
+
+## Imagem e vídeo
+
+Nano Banana Pro (imagem) e Veo (vídeo) estão no aplicativo Gemini com plano pago do Google AI, ou pela API do Gemini com a sua chave do Google AI Studio guardada num arquivo .env (nunca no chat nem no GitHub). A API cobra por imagem e por segundo de vídeo.
 
 ## Cuidado
 
